@@ -181,7 +181,7 @@ Lluvia de ideas proyecto -> https://lucid.app/lucidspark/49151a82-a8d6-4645-8d21
 			git init -> Inicia el repositorio nuevo solo es necesirio hacerlo al crear el repositorio
 			git status -> muestra el estado del proyecto
 			git add . ->añade los archivos al repositorio
-			git commit -m ""Creacion del repositorio para subir los avances y talleres del Bootcamp de Inteligencia Artificial nivel explorador 2025. En este repositorio se encuentra cada una de las actividades realizadas por cada sesión y se creo la carpeta de sesion_14 que contiene el archivo con el taller de contenedores en python."
+			git commit -m "Creacion del repositorio para subir los avances y talleres del Bootcamp de Inteligencia Artificial nivel explorador 2025. En este repositorio se encuentra cada una de las actividades realizadas por cada sesión y se creo la carpeta de sesion_14 que contiene el archivo con el taller de contenedores en python."
 "-> Hace un comentario al commit
 			git log -> Ver los commits que hay en el proyecto
 			git commit -am "Modificacion del archivo contenedores.py añadiendo comentarios" -> añade y realiza el comentario en el repositorio solo se puede hacer con archivos modificados
@@ -197,3 +197,11 @@ Lluvia de ideas proyecto -> https://lucid.app/lucidspark/49151a82-a8d6-4645-8d21
 	- Lectura tema 5: Visualizacion de datos
 	- Taller Contenedores en python parte 2 (Listas, tuplas, diccionarios y contenedores)-> https://drive.google.com/file/d/1dx8QPEF-7siEw8FuhgPMuEH7dDhOzj9Z/view
 	- Documentacion del proyecto (Objetivo, introducción)
+
+--------------------------------------------
+---------------2025-02-08-------------------
+--------------------------------------------
+*IA: (Semana 4 Sesion 16 ) pag. 172 https://view.genially.com/667d6d077f77200014cb24c5/interactive-content-analisis-de-datos-dragon-ballcombinadas 
+	- Trabajo colaborativo -> Proyecto Bootcamp
+	- Taller Contenedores en python parte 3 (Listas, tuplas, diccionarios y contenedores)-> https://drive.google.com/file/d/1dx8QPEF-7siEw8FuhgPMuEH7dDhOzj9Z/view
+	- Lectura Tema 6.
