@@ -1,0 +1,199 @@
+********************************************
+************INTELIGENCIA ARTIFICIAL********* 
+********************************************
+(Equipo 13)
+Ingles: Angiemilena.lopez@gmail.com
+
+Github Jheyson - > https://github.com/JheysonGalvis/VIRTI01_2_Inteligencia_Artificial_Explorador_Basico_2025_1_L2_G12/tree/main
+lista de equipos y enlace proyecto-> https://docs.google.com/spreadsheets/d/10vsymylDZ1-bipyFWoimqBzFyuIsB4h_/edit?gid=277156422#gid=277156422
+
+carpeta  Hab. Poder: https://drive.google.com/drive/folders/1j86KF0IuPVWs_PJGaHVBJmN3zSMdh_dZ?usp=drive_link
+carpeta proyectos: https://drive.google.com/drive/folders/1mfPFOjWR9aeSoPUC0R5vdZtuVNZi788k
+
+Lluvia de ideas proyecto -> https://lucid.app/lucidspark/49151a82-a8d6-4645-8d21-25cd38e028c2/edit?invitationId=inv_aa3140b2-5ed2-4cdf-8779-ce93b840ab5a&page=0_0#
+--------------------------------------------
+---------------2025-01-18-------------------
+--------------------------------------------
+* Hab. poder: Ikigai -> https://www.youtube.com/watch?v=l-jWM1rnz0g
+* IA: (Semana 1 sesion 1)
+	- Presentacion equipo.
+
+--------------------------------------------
+---------------2025-01-20-------------------
+--------------------------------------------
+* Hab. poder: 4 Hrs.
+
+--------------------------------------------
+---------------2025-01-21-------------------
+--------------------------------------------
+* Hab. poder:2 hrs.
+* IA: (Semana 2 sesion 2)
+	- Intalacion de Github
+	- Instalacion de Git
+
+--------------------------------------------
+---------------2025-01-22-------------------
+--------------------------------------------
+* IA: (semana 2 sesion 3)
+	- Introduccion y generalidades
+	- Git, Github, Visual Studio Code
+	- Ingenieria de Prompts
+	- Instalacion de visual Studio
+	- Codigo ASCII: https://elcodigoascii.com.ar/
+	- Comandos basicos de Git: https://www.it.uc3m.es/pbasanta/asng/course_notes/ch12s04.html
+
+--------------------------------------------
+---------------2025-01-23-------------------
+--------------------------------------------
+* IA: (Semana 2 sesion 4)
+	- Comandos basicos de Git: 
+		https://www.it.uc3m.es/pbasanta/asng/course_notes/ch12s04.html
+		Pag. 45 -> https://view.genially.com/669adcb062665c97aefe5917/presentation-c7-inteligencia-artificialnivel-exploradorg2
+	- Revisión de videos, plataforma mision 1
+	- Finanzas personales con IA
+	
+--------------------------------------------
+---------------2025-01-24-------------------
+--------------------------------------------
+* IA: (Semana 2 sesion 6)
+	- Intalar extensiones en visual Studio code
+	- Creacion de carpeta en Visual "Sesion 6">"variable"
+	- Taller de variable con Pyhton
+--------------------------------------------
+---------------2025-01-25-------------------
+--------------------------------------------
+* IA: 1er video (Semana 2 sesion 6)
+	- Continuacion Taller de variable con Pyhton ->https://github.com/JheysonGalvis/VIRTI01_2_Inteligencia_Artificial_Explorador_Basico_2025_1_L2_G12/tree/main
+* IA: 2do video (Semana 2 sesion 6)
+	- Laboratorio practico, hasta punto 5.
+
+--------------------------------------------
+---------------2025-01-27-------------------
+--------------------------------------------
+* Hab. Poder: 4 Hrs.
+	- Continuacion Taller de variable con Pyhton
+
+--------------------------------------------
+---------------2025-01-28-------------------
+--------------------------------------------
+* Hab. Poder: 2 Hrs.
+* IA: (Semana 3 sesion 7)
+	- Continuacion Taller de variable con Pyhton
+* IA: (Semana 3 sesion 7) Nivelacion - sala 1
+	- Instalacion de Github, Git, Visual Studio Code
+
+--------------------------------------------
+---------------2025-01-29-------------------
+--------------------------------------------
+* Hab. poder: Nivelación. 30 min. https://drive.google.com/drive/folders/1j86KF0IuPVWs_PJGaHVBJmN3zSMdh_dZ?usp=drive_link
+* IA: (Semana 3 sesion 8)
+	- Continuacion de taller de variables
+* IA: (Semana 3 sesion 8) Nivelacion - sala 1
+	- Resumen de las clases que se han impartido hasta el momento.
+	- configuracion de la instancia de  git
+	- Taller variables
+
+--------------------------------------------
+---------------2025-01-30-------------------
+--------------------------------------------
+* IA: (Semana 3 Sesion 9) Pag.93 https://view.genially.com/669adcb062665c97aefe5917/presentation-c7-inteligencia-artificialnivel-exploradorg2
+	- Pip y entornos virtuales. Pyhon y Visual Studio. Instalacion de librerias en python con pip
+		- Actualizar pip
+		- matplotlib
+		- FastAPI, Pydantic, Uvicorn
+		- Pandas, OpenPyxl
+		- spacy, scikit-learn
+	- Lectura tema 2 -> ciclo de vida de una App
+
+--------------------------------------------
+---------------2025-01-31-------------------
+--------------------------------------------
+* IA: (Semana 3 Sesion 10) pag.104 https://view.genially.com/669adcb062665c97aefe5917/presentation-c7-inteligencia-artificialnivel-exploradorg2
+	- Clonacion de repositorio
+	- Lectura del proyecto IA -> https://drive.google.com/file/d/1eczIKdcUG1yi6bLx-B7iuHapc_Htb4LM/view
+	- ejecucion del proyecto -> https://github.com/victorGutyy/Proyecto_Final_Talento_tech/blob/main/main.py
+		pag.110 correccion de comando -> python.exe -m uvicorn main:app --reload
+	- para saber si un escrito es creado por IA:
+		- zerogpt
+		- gptzero
+		- Grammarly
+--------------------------------------------
+---------------2025-02-01-------------------
+--------------------------------------------
+*IA: (Semana 3 Sesion 11) Pag. 110 https://view.genially.com/669adcb062665c97aefe5917/presentation-c7-inteligencia-artificialnivel-exploradorg2
+	- Clonando repositorio
+	- Lectura. Tema 2 parte 2 -> Historia ciclo de vida de una app
+	- Introduccion a Kaggle
+		- dataset -> https://www.kaggle.com/datasets/tunguz/online-retail
+		- Instalar extension visual code -> Rainbow csv
+		- Ejecucion de dataset
+
+*Proyectos:https://drive.google.com/drive/folders/1mfPFOjWR9aeSoPUC0R5vdZtuVNZi788k
+	- Ciclo de vida de una aplicacion.
+		- Identificacion del problema
+		- Recoleccion de datos
+			• Kaggle
+			• Búsqueda de conjuntos de datos de Google
+			• Data World
+			• Datos Abiertos de Colombia
+			• Our World in Data – Datos sobre temas globales como salud, economía y medio ambiente.
+			• Dane
+			• Nasa
+
+--------------------------------------------
+---------------2025-02-03-------------------
+--------------------------------------------
+*Ingles: Angiemilena.lopez@gmail.com
+	- presentacion en Paddle -https://padlet.com/angiemilenalopez/get-to-know-r0zzww9h9qn8q220
+	- suffix, prefix
+	- Topic read
+
+--------------------------------------------
+---------------2025-02-04-------------------
+--------------------------------------------
+*Ingles: Angiemilena.lopez@gmail.com
+	- Prefijos y sufijos
+	- Topic
+	- Topic sentences
+
+
+*IA: (Semana 4 Sesion 12 ) pag.134 https://view.genially.com/669adcb062665c97aefe5917/presentation-c7-inteligencia-artificialnivel-exploradorg2
+	- Introduccion a Kaggle parte 2
+	- Ejercicios -> Recomendador de videos por calificacion
+
+--------------------------------------------
+---------------2025-02-05-------------------
+--------------------------------------------
+*IA: (Semana 4 Sesion 13 ) pag. 139 https://view.genially.com/669adcb062665c97aefe5917/presentation-c7-inteligencia-artificialnivel-exploradorg2
+	- Recomendador de videos
+	- Lectura tema 3: Identificacion del problema
+
+--------------------------------------------
+---------------2025-02-06-------------------
+--------------------------------------------
+*IA: (Semana 4 Sesion 14 ) pag. 154 https://view.genially.com/669adcb062665c97aefe5917/presentation-c7-inteligencia-artificialnivel-exploradorg2
+	- configuracion de git 
+		-> nombre y correo 
+			git config --global --list
+			git config --global user.name "[Nombre]"
+			git config --global user.mail "[correo]"
+		->Creacion de Repositorio
+			git init -> Inicia el repositorio nuevo solo es necesirio hacerlo al crear el repositorio
+			git status -> muestra el estado del proyecto
+			git add . ->añade los archivos al repositorio
+			git commit -m ""Creacion del repositorio para subir los avances y talleres del Bootcamp de Inteligencia Artificial nivel explorador 2025. En este repositorio se encuentra cada una de las actividades realizadas por cada sesión y se creo la carpeta de sesion_14 que contiene el archivo con el taller de contenedores en python."
+"-> Hace un comentario al commit
+			git log -> Ver los commits que hay en el proyecto
+			git commit -am "Modificacion del archivo contenedores.py añadiendo comentarios" -> añade y realiza el comentario en el repositorio solo se puede hacer con archivos modificados
+
+	- Contenedores python parte 1 -> pag. 159 https://drive.google.com/file/d/1dx8QPEF-7siEw8FuhgPMuEH7dDhOzj9Z/view
+	- Lectura tema 4: Recoleccion de datos.
+	- Avance en la documentacion del proyecto.
+
+--------------------------------------------
+---------------2025-02-07-------------------
+--------------------------------------------
+*IA: (Semana 4 Sesion 15 ) pag. 164 https://view.genially.com/669adcb062665c97aefe5917/presentation-c7-inteligencia-artificialnivel-exploradorg2
+	- Lectura tema 5: Visualizacion de datos
+	- Taller Contenedores en python parte 2 (Listas, tuplas, diccionarios y contenedores)-> https://drive.google.com/file/d/1dx8QPEF-7siEw8FuhgPMuEH7dDhOzj9Z/view
+	- Documentacion del proyecto (Objetivo, introducción)
