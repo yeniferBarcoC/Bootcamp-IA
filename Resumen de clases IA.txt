@@ -209,3 +209,50 @@ Lluvia de ideas proyecto -> https://lucid.app/lucidspark/49151a82-a8d6-4645-8d21
 	- Taller Contenedores en python parte 3 (Listas, tuplas, diccionarios y contenedores)-> https://drive.google.com/file/d/1dx8QPEF-7siEw8FuhgPMuEH7dDhOzj9Z/view
 	- Lectura Tema 6.
 
+--------------------------------------------
+---------------2025-02-10-------------------
+--------------------------------------------
+*Ingles: 
+	- Main Idea
+	- Summary
+
+--------------------------------------------
+---------------2025-02-11-------------------
+--------------------------------------------
+*Ingles: 
+	- Activity article summary
+	- Vocabulary knowledge foe effective reading
+		- Semantic Maps
+*IA: (Semana 5 Sesion 17 ) pag. 176 https://view.genially.com/669adcb062665c97aefe5917/presentation-c7-inteligencia-artificialnivel-exploradorg2
+	- Taller contenedores en python parte 4: Diccionarios -> https://github.com/JheysonGalvis/diccionarios
+		- crear y vincular repositorio en github
+			git clone url_repositorio -> Clona un repositorio
+			start . -> Abre la ubicacion del archivo
+
+	- Lectura tema 6 -> Limpieza de datos
+
+--------------------------------------------
+---------------2025-02-12-------------------
+--------------------------------------------
+*IA: (Semana 5 Sesion 18 ) pag. 182 https://view.genially.com/669adcb062665c97aefe5917/presentation-c7-inteligencia-artificialnivel-exploradorg2
+	- Trabajo colarito en Github: git push - git pull
+		Cambiar navegador predeterminado
+		Abrir archivo con git
+		git add yenifer.py -> añade un archivo especifico al repositorio
+		git commit -m "Abordamos diccionarios"
+		git push -u origin main -> empujamos los datos al repositorio
+		git pull origin main --rebase ->descarga los cambios cambios del repositorio, y implementa primero los cambios antes que el de nosotros para no crear conflictos
+		git push -u origin main
+
+--------------------------------------------
+---------------2025-02-13-------------------
+--------------------------------------------
+IA: (Semana 5 Sesion 19 ) pag. 199 https://view.genially.com/669adcb062665c97aefe5917/presentation-c7-inteligencia-artificialnivel-exploradorg2 
+	- Lectura de los casos Mision 1: Taller de Pandas/Iris 
+	- Proyecto Chatbot: parte 1
+	- FastApi: https://view.genially.com/66a6e14b941ab06a0bf3ca1c/presentation-fastapi
+		uvicorn main:app -> me ejecuta la aplicacion de chatbot
+		uvicorn main:app --reload -> recarga cambios automaticamente.
+		uvicorn main:app --reload --port 5000 -> definimos en que puerto se va ejecutar
+		
+	- swagger
