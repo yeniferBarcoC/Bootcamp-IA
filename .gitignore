@@ -1,0 +1,5 @@
+# Ignorar carpeta venv (para entornos virtuales)
+venv/
+
+# Ignorar archivos generados por Python
+__pycache__/
