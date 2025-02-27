@@ -4,6 +4,8 @@
 (Equipo 13)
 Ingles: Angiemilena.lopez@gmail.com
 
+Ruta empleabilidad -> https://talentotech2.com.co/empleabilidad/
+
 Github Jheyson - > https://github.com/JheysonGalvis/VIRTI01_2_Inteligencia_Artificial_Explorador_Basico_2025_1_L2_G12/tree/main
 lista de equipos y enlace proyecto-> https://docs.google.com/spreadsheets/d/10vsymylDZ1-bipyFWoimqBzFyuIsB4h_/edit?gid=277156422#gid=277156422
 
@@ -98,6 +100,7 @@ Lluvia de ideas proyecto -> https://lucid.app/lucidspark/49151a82-a8d6-4645-8d21
 --------------------------------------------
 * IA: (Semana 3 Sesion 9) Pag.93 https://view.genially.com/669adcb062665c97aefe5917/presentation-c7-inteligencia-artificialnivel-exploradorg2
 	- Pip y entornos virtuales. Pyhon y Visual Studio. Instalacion de librerias en python con pip
+			pip freeze -> se puede verframeworks y librerias instaladas
 		- Actualizar pip
 		- matplotlib
 		- FastAPI, Pydantic, Uvicorn
@@ -238,21 +241,132 @@ Lluvia de ideas proyecto -> https://lucid.app/lucidspark/49151a82-a8d6-4645-8d21
 	- Trabajo colarito en Github: git push - git pull
 		Cambiar navegador predeterminado
 		Abrir archivo con git
-		git add yenifer.py -> añade un archivo especifico al repositorio
-		git commit -m "Abordamos diccionarios"
-		git push -u origin main -> empujamos los datos al repositorio
-		git pull origin main --rebase ->descarga los cambios cambios del repositorio, y implementa primero los cambios antes que el de nosotros para no crear conflictos
-		git push -u origin main
+
+		------------------- si no hemos hecho comit por primera vez
+		git init 	-> inicializa el repocitorio solo se hace una vez
+		git branch -M main	-> Cambiamos a la rama main
+		git remote add origin https://github.com/Jessicavallejoh/diabetes.git 	-> añadimos el enlace del repositorio
+		git remote -v 	-> para ver a que repositorio apunta el proyecto
+
+		------------------- Si vamos a clonar un proyecto
+		git clone https://github.com/Jessicavallejoh/diabetes.git -> para clonar un repositorio
+
+		------------------- Creamos el commit de los cambios
+		git add yenifer.py 	-> añade un archivo especifico al repositorio
+		git commit -m "Abordamos diccionarios"		-> Creamos un comit de los cambios hechos
+
+		-------------------Subimos los cambios al repositorio en github
+		git push -u origin main 	-> empujamos los datos al repositorio
+		git pull origin main --allow-unrelated-histories 	->baja forzadamente las actualizaciones
+		git pull origin main --rebase 	->descarga los cambios cambios del repositorio, y implementa primero los cambios antes que el de nosotros para no crear conflictos
 
 --------------------------------------------
 ---------------2025-02-13-------------------
 --------------------------------------------
-IA: (Semana 5 Sesion 19 ) pag. 199 https://view.genially.com/669adcb062665c97aefe5917/presentation-c7-inteligencia-artificialnivel-exploradorg2 
+*IA: (Semana 5 Sesion 19 ) pag. 199 https://view.genially.com/669adcb062665c97aefe5917/presentation-c7-inteligencia-artificialnivel-exploradorg2 
 	- Lectura de los casos Mision 1: Taller de Pandas/Iris 
-	- Proyecto Chatbot: parte 1
+	- Proyecto Chatbot: parte 1 https://www.youtube.com/watch?v=-wL4850ftlY
 	- FastApi: https://view.genially.com/66a6e14b941ab06a0bf3ca1c/presentation-fastapi
 		uvicorn main:app -> me ejecuta la aplicacion de chatbot
 		uvicorn main:app --reload -> recarga cambios automaticamente.
 		uvicorn main:app --reload --port 5000 -> definimos en que puerto se va ejecutar
-		
-	- swagger
+		uvicorn [nombre_del_archivo]:app --reload --port 5000 --log-level debug -> ejecuta FastAPI con más detalles de error activados, Esto mostrará en la terminal el error 									     exacto.
+	- documentacion fastAPI/swagger: 
+		http://127.0.0.1:5000/[url]/docs
+
+--------------------------------------------
+---------------2025-02-14-------------------
+--------------------------------------------
+*IA: (Semana 5 Sesion 20 ) pag. 204 https://view.genially.com/669adcb062665c97aefe5917/presentation-c7-inteligencia-artificialnivel-exploradorg2
+	- Reto 1: Mision 1 -> https://github.com/JheysonGalvis/cineasistente/blob/main/main.py
+			      https://www.youtube.com/watch?v=-wL4850ftlY
+			Se agrego nltk.download('punkt_tab')
+	- Subir al repositorio el proyecto tutorial -> https://www.youtube.com/watch?v=NBQODMbLN3Q
+	
+	
+
+--------------------------------------------
+---------------2025-02-15-------------------
+--------------------------------------------
+*IA: (Semana 5 Sesion 21 ) pag. 208 https://view.genially.com/669adcb062665c97aefe5917/presentation-c7-inteligencia-artificialnivel-exploradorg2
+	- Continuacion del Reto 1: Mision 1 y documentación
+	- Proyecto Chatbot: parte 2 
+*Proyectos:
+	- Continuación documentacion del proyecto.
+
+--------------------------------------------
+---------------2025-02-17-------------------
+--------------------------------------------
+*Ingles: 
+	- Incidental learning and intencional learning
+	- synonym and Antonyms: https://www.thesaurus.com/
+	- Cognados falses
+
+--------------------------------------------
+---------------2025-02-18-------------------
+--------------------------------------------
+*Ingles: 
+	- who, where, what, why?
+
+*IA: (Semana 6 Sesion 22 ) pag. 213 https://view.genially.com/669adcb062665c97aefe5917/presentation-c7-inteligencia-artificialnivel-exploradorg2
+	- NLTK Libreria de python: Natural Lenguage Toolkit
+
+--------------------------------------------
+---------------2025-02-19-------------------
+--------------------------------------------
+*IA: (Semana 6 Sesion 23 ) pag. 220 al 230 https://view.genially.com/669adcb062665c97aefe5917/presentation-c7-inteligencia-artificialnivel-exploradorg2
+	-NLTK  libreria de python: 
+	- Lectura misión 2: mapa de ruta y Tema1
+	- Trabajo colaborativo
+--------------------------------------------
+---------------2025-02-20-------------------
+--------------------------------------------
+*IA: (Semana 6 Sesion 24 ) pag. 220 al 230 https://view.genially.com/669adcb062665c97aefe5917/presentation-c7-inteligencia-artificialnivel-exploradorg2
+	- Lectura misión 2: mapa de ruta y Tema1
+	- Trabajo colaborativo
+
+--------------------------------------------
+---------------2025-02-21-------------------
+--------------------------------------------
+*IA: (Semana 6 Sesion 25 ) 
+	- Lectura misión 2: Tema 2
+	- Trabajo colaborativo
+--------------------------------------------
+---------------2025-02-22-------------------
+--------------------------------------------
+*IA: (Semana 6 Sesion 26 ) 
+	- Ejercicio practico
+	- Trabajo colaborativo
+*Proyectos:Trabajo colaborativo
+
+--------------------------------------------
+---------------2025-02-24-------------------
+--------------------------------------------
+*Ingles: 
+	- Sinonimos
+	- Vocabulario tecnico
+
+--------------------------------------------
+---------------2025-02-25-------------------
+--------------------------------------------
+*Ingles: 
+	
+*IA: (Semana 7 Sesion 27 ) pag. 245 https://view.genially.com/669adcb062665c97aefe5917/presentation-c7-inteligencia-artificialnivel-exploradorg2
+	- Sustentacion de equipos proyecto final:
+		- Grupo 17:Johan, Luis eduardo, Sindi
+		- Grupo 2: Keli, Critian, Luis Fer y Jorge
+		- Grupo 5: Monica, Erica y Leidys
+		- Grupo 24: Juan Se, Jean Ca y Emmanuel
+
+--------------------------------------------
+---------------2025-02-26-------------------
+--------------------------------------------
+*IA: (Semana 7 Sesion 28 ) pag. 245 https://view.genially.com/669adcb062665c97aefe5917/presentation-c7-inteligencia-artificialnivel-exploradorg2
+	- Sustentacion de equipos proyecto final:
+		- Grupo 27: Juanse Miguel, David
+		- Grupo 14: Juanse, Hector, Miguel
+		- Grupo 13: Yenifer, Jessica, Wilder
+		- Grupo 4: Luisa, Daniel, German
+		- Grupo 22: Juliana, Lina,Jose
+		- Grupo 26: Alejandro Leal Gonzales
+		- Grupo 28: Leidy Dayana Montes S.
