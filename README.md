@@ -8,7 +8,7 @@
 > * **Mentor:** Juan Sebastian Robledo
 > * **Docente:** Yerson Duvan Angúlo Rodriguez
 <br><br>
-# Estructura del proyecto.<br>
+# 1. Estructura del proyecto.<br>
 El proyecto consta de varias carpetas las cuales estan distribuidas de la siguiente manera:<br><br>
 
 * **Carpeta principal:** Bootcamp-Ia
@@ -16,8 +16,8 @@ El proyecto consta de varias carpetas las cuales estan distribuidas de la siguie
 * Carpeta **Chatboot_clase**: Se encuentra los archivos del ejercicio de clase para un recomendador de videos.
 * Archivo **Resumen de clases IA.txt:** Este archivo contiene un resumen de las clases con las tematicas vista y enlaces de interes.
 
- ## Proyecto final: <br>
- El proyecto final se centro en un chatbot con inteligencia Artificial y el uso de IA Generativa con la ayuda de Ollama 3.2. para ver el proyecto final se puede acceder desde el siguiente enlace: (github Jessica)[]
+ ## 1.2. Proyecto final: <br>
+El proyecto final se centro en un chatbot con inteligencia Artificial y el uso de IA Generativa con la ayuda de Ollama 3.2. para ver el proyecto final se puede acceder desde el siguiente enlace: [Proyecto Final Diabetes](https://github.com/Jessicavallejoh/diabetes)
 
 
 
